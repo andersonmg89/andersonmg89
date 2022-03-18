@@ -2,11 +2,18 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-martins-dev/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_andersonmm/)
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmg89&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmg89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anderson GitHub stats]()[![Top Langs](](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="display: inline_block"><br />
+  <a href="https://github.com/andersonmg89">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=andersonmg89&show_icons=true&theme=dracula" />
+  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmg89&layout=compact)" />
+</div><br />
 
 ### Técnologias que eu utilizo no meu dia a dia
 
 <div style="display: inline_block"><br />
+  <a href="https://github.com/andersonmg89">
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="" alt="html5" />
   <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="" alt="css" />
   <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style="" alt="bootstrap" />
