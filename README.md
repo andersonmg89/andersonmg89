@@ -26,4 +26,6 @@
 Atuando na área de tecnologia a 5+ anos, desempenhando atividades como captação, homologação, lançamento de projeto, desenvolvimento de software aplicando as boas práticas de codificação sempre pensando em sustentabilidade, segurança, escalabilidade e custo. 
 
 ## Procuro oportunidade para trabalhar com JavaScript 😁
+  
+![Snake animation](https://github.com/andersonmg89/andersonmg89/blob/output/github-contribution-grid-snake.svg)
 
